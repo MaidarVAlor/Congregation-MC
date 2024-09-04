@@ -5,6 +5,8 @@ made by mva(em-vee-ay), welcome to this pack's GitHub page.
 the Congregation MC is a sound pack that resembles the [popular Geometry Dash meme, the Congregation Jumpscare](https://www.youtube.com/watch?v=3XesMzhRg_g).
 in this pack, there is a chance of getting jumpscared by the song's drop sequence.
 
+starting from version **v1.1**, visual jumpscare appears when trying to wear carved pumpkin.
+
 ### features
 it's just 1 feature... it's made to jumpscare. there is a chance that the song will play. all the other songs (except the music disks) are _MUTED_.
 
@@ -28,10 +30,11 @@ song links:
 - [YouTube song video](https://www.youtube.com/watch?v=ALrIL3kBvNw)
 > LICENSED UNDER CREATIVE COMMONS ATTRIBUTION 3.0 UNPORTED LICENSE.
 ## screenshot used for this pack
-### screenshotted and cropped by myself
+### ALL SCs were screenshotted and cropped by myself
 the screenshot shows the level ["Congregation" by Presta](https://gdbrowser.com/68668045), made in Geometry Dash, a game that's made by RobTop Games.
 used in:
 - project's icon and resource pack's icon
+- visual version of the congregation jumpscare (wearing carved pumpkin)
 
 credits can be also found inside the resource pack file.
 
