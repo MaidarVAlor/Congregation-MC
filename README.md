@@ -1,6 +1,6 @@
 # Congregation MC
 ### welcome!
-made by Mahvay (or "Mva" if you like the shorter word), welcome to this pack's GitHub page.
+made by Mahvay, welcome to this pack's GitHub page.
 
 the Congregation MC is a sound pack that resembles the [popular Geometry Dash meme, the Congregation Jumpscare](https://www.youtube.com/watch?v=3XesMzhRg_g).
 in this pack, there is a chance of getting jumpscared by the song's drop sequence.
